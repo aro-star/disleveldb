@@ -1,9 +1,5 @@
 # DisLevelDB 
 
--------
-TASK 4 (software dev only)
---------
-
 LevelDB is a fast key-value store developed by Google and now used as an
 adapter for databases like PouchDB. However, it is only meant to
 work on a single node. Implement a distributed LevelDB that is highly-available
